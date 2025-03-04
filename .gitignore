@@ -172,5 +172,3 @@ cython_debug/
 
 .vscode
 logs/
-models/
-*.pkl
