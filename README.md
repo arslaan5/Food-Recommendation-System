@@ -85,7 +85,3 @@ Example searches:
 - Scikit-learn
 - Sentence-transformers
 - Selenium (for scraper)
-=======
-# Food-Recommendation-System
-A system that recommends dishes using multiple search option like search by cuisine, course or dish.
->>>>>>> fe534467d59a459bba797c6b1947d71d2fce5511
