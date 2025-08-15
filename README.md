@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Food Recommendation System
 
 A machine learning system that recommends dishes using multiple search option like search by cuisine, course or dish. The system provides visual recommendations with images and detailed information.
